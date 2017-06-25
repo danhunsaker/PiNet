@@ -1,0 +1,4 @@
+.vagrant/
+simulations/shadow/shadow-plugin-tor/
+simulations/shadow/shadow/
+simulations/shadow/tor/

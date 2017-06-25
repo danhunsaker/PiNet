@@ -5,6 +5,8 @@
 |         Powered By Raspberry Pi         |
 |              Built By You               |
 
+[![Creative Commons BY-NC-SA 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 We envision a world where public networks can be found in public areas of every
 major city, and where those networks are run entirely without any corporate
 interference or oversight. We envision a world where city-local networks connect
